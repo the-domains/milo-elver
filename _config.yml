@@ -1,0 +1,28 @@
+name: Milo Elver
+favicon: null
+layout_spectrum: 0.8686502454802394
+typography_spectrum: 0.5600867287721485
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.37052961718291044
+  lightness: 0.7951091027352959
+  saturation: 0.844733357662335
+  rhythmicContrast: 0.6386638535186648
+purpose: []
